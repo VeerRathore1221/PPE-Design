@@ -1,0 +1,38 @@
+.head{
+    color:cadetblue;
+    border: solid;
+    background-color:beige;
+    text-align: center;
+    
+}
+
+body{
+    background-color: beige;
+}
+
+.PPE{
+    color: cadetblue;
+    border: solid;
+    text-align: center;
+}
+
+.img{
+    padding-left: 400px;
+}
+
+.ppeimg{
+    padding-left: 400px;
+}
+.order{
+    color:cadetblue;
+    border: solid;
+    background-color:beige;
+    text-align: center;
+}
+.dondoff{
+    text-align: center;
+    border: solid;
+    border-radius: 20px;
+    color: cadetblue;
+    
+}
